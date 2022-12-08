@@ -2,11 +2,11 @@
 
 # Clone the repository
 
-    git clone git@github.com:rodineiti/app-node-web.git
+    git clone https://github.com/Ebercandeia26/CRUD_Em_Node.Js.git
 
 # Switch to the repo folder
 
-    cd app-node-web
+    cd app-node-web-main
 
 # Install all the dependencies using npm or yarn
 
